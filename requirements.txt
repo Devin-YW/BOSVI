@@ -1,0 +1,14 @@
+botorch==0.12.0
+botorch==0.8.5
+dapper==1.5.1
+filterpy==1.4.5
+gpytorch==1.10
+matplotlib==3.10.6
+numpy==2.3.2
+pysindy==1.7.2
+scikit_learn==1.7.1
+scipy==1.16.1
+tikzplotlib==0.10.1
+torch==2.2.2
+torchsde==0.2.6
+tqdm==4.66.5
